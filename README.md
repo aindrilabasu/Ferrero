@@ -1,2 +1,2 @@
 # Ferrero
-GitHub link for Ferrero Business Case
+GitHub project for Ferrero Business Case
